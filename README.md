@@ -50,3 +50,15 @@ Response:
 src/        → TypeScript source files  
 dist/       → Compiled JavaScript files  
 app.ts      → Application entry point  
+
+## Author
+<table width="100%" >
+  <tr>
+    <th>Name</th>
+    <th>Position</th>
+  </tr>
+  <tr>
+    <td>Kiyan Javanshiri</td>
+    <td>Fullstack Developer</td>
+  </tr>
+</table>
